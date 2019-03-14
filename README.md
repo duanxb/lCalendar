@@ -10,7 +10,7 @@
  ## 演示
 
 
-![lCalendar]()
+![lCalendar](https://raw.githubusercontent.com/duanxb/lCalendar/master/lcalendar-date.gif)
 
 #### Code DEMO
 ```javascript
